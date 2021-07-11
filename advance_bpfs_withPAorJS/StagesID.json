@@ -1,0 +1,25 @@
+{
+"@odata.context":"https://org6b21bf98.crm4.dynamics.com/api/data/v9.0/$metadata#processstages(stagename)",
+"value":[
+	{
+	"@odata.etag":"W/\"761116\"",
+	"stagename":"Stage 4",
+	"processstageid":"73df2774-b083-4325-9804-845186962671"
+	},
+	{
+	"@odata.etag":"W/\"761118\"",
+	"stagename":"Stage 1",
+	"processstageid":"7da32b9a-6994-ff0b-0cdc-b9c0c3bde713"
+	},
+	{
+	"@odata.etag":"W/\"761112\"",
+	"stagename":"Stage 2",
+	"processstageid":"5148b38e-5fcd-4459-98e2-c778710192dd"
+	},
+	{
+	"@odata.etag":"W/\"761114\"",
+	"stagename":"Stage 3",
+	"processstageid":"97b24b6c-0ac6-4d7d-8388-f47fec8af6fc"
+	}
+]
+}
