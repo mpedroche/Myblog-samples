@@ -1,5 +1,5 @@
 # Cómo avanzar tus BPFs de forma automatizada 
-En este repositorios encotrarás la solución a como avanzar tus Business Process Flow de forma automatizada con Power Automate o JavaScript.
+En este repositorios encotrarás un ejemplo de solución para avanzar tus Business Process Flow de forma automatizada con Power Automate o JavaScript.
 # ¿Quieres más información?
 Puedes seguir estos blogs: 
 1. https://www.poweruser365.com/post/avanzarbpfs
